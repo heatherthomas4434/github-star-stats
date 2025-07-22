@@ -9,3 +9,4 @@ Notes and usage details for github-star-stats.
 - link the usage section
 - add a note about the defaults
 - link the usage section
+- clarify the setup steps
